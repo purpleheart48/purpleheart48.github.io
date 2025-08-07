@@ -1,0 +1,43 @@
+[
+  {
+    "date": "250727",
+    "updates": [
+      { "showId": "nogizaka-star-tanjou-six", "eps": "13" },
+      { "showId": "showroom", "eps": "22" },
+      { "showId": "showroom", "eps": "23" },
+      { "showId": "ryosangata-ruka", "eps": "04" },
+      { "showId": "koroshita-otto-ga-kaettekimashita", "eps": "03" },
+      { "showId": "cupstar-ane-to-itsumademo", "eps": "01" },
+      { "showId": "utabangumi-tvtokyo-ongakusai-2025", "eps": "01" },
+      { "showId": "utabangumi-music-station", "eps": "02" },
+      { "showId": "utabangumi-venue101", "eps": "03" }
+    ]
+  },
+  {
+    "date": "250723",
+    "updates": [
+      { "showId": "nogizaka-star-tanjou-six", "eps": "10" },
+      { "showId": "nogizaka-star-tanjou-six", "eps": "11" },
+      { "showId": "nogizaka-star-tanjou-six", "eps": "12" },
+      { "showId": "saito-asuka-no-konya-wa-nonde-kaerou", "eps": "01" },
+      { "showId": "showroom", "eps": "20" },
+      { "showId": "showroom", "eps": "21" },
+      { "showId": "ryosangata-ruka", "eps": "01" },
+      { "showId": "ryosangata-ruka", "eps": "02" },
+      { "showId": "ryosangata-ruka", "eps": "03" },
+      { "showId": "koroshita-otto-ga-kaettekimashita", "eps": "01" },
+      { "showId": "koroshita-otto-ga-kaettekimashita", "eps": "02" },
+      { "showId": "nemuru-baka", "eps": "01" },
+      { "showId": "zenbu-of-tokyo", "eps": "01" }
+    ]
+  },
+  {
+    "date": "250629",
+    "updates": [
+      { "showId": "nogizaka-star-tanjou-six", "eps": "08" },
+      { "showId": "nogizaka-star-tanjou-six", "eps": "09" },
+      { "showId": "under-live", "eps": "10" },
+      { "showId": "spicy-sessions", "eps": "08" }
+    ]
+  }
+]
